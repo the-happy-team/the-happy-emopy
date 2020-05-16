@@ -15,7 +15,6 @@ import aiohttp
 import asyncio
 import datetime
 import time
-import serial
 import glob
 
 DEBUG = False
